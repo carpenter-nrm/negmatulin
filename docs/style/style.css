@@ -5,14 +5,11 @@
     padding: 0;
 }
 
-body {
+h1 {
     font-family: "Finlandica Headline", sans-serif;
     font-weight: 30;
-}
-
-h1 {
     position: absolute;
     top: 550px;
     left: 550px;
-
 }
+

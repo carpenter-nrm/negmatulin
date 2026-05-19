@@ -5,8 +5,8 @@
     padding: 0;
 }
 
-.span {
-    position: absolute;
-    top: 5cm;
-    left: 5cm;
+span {
+    font-family: "Finlandica Headline", sans-serif;
+    font-weight: 100;
+ 
 }

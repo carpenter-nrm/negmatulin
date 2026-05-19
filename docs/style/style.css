@@ -8,3 +8,9 @@
 .wrapper {
     background: black;
 }
+
+h2 {
+
+    font-family: "Finlandica Headline", sans-serif;
+    font-weight: 20;
+}
